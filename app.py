@@ -1,3 +1,4 @@
+# Stock Market Dashboard
 import streamlit as st
 import plotly.graph_objects as go
 from streamlit_autorefresh import st_autorefresh  # type: ignore
@@ -294,4 +295,5 @@ elif menu == "Profile":
     </p>
 
     </div>
+
     """, unsafe_allow_html=True)
