@@ -76,13 +76,15 @@ stock-market-dashboard/
 ├─ news.py               # Market news fetcher
 ├─ requirements.txt      # Python dependencies
 └─ README.md             # Project documentation
+
 🎯 Future Improvements
 ⚡ Real-time stock updates
 📂 Multiple portfolios with export to Excel
 🤖 Advanced ML prediction models
 📱 Mobile-friendly responsive design
 🔔 Price alerts & notifications
-💻 Author
 
+
+💻 Author
 Srushti – Data Analytics Student
 🌐 GitHub: https://github.com/sru2808
